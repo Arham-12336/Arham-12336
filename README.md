@@ -39,7 +39,7 @@ Looking for an opportunity to enhance my Web-development skills and utilize my e
 
 # ⚙️ GitHub Analytics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arham-12336&show_icons=true&locale=en&layout=compact" alt="arham-12336" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arham-12336&show_icons=true&locale=en&layout=compact" alt="arham-12336" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arham-12336&show_icons=true&locale=en" alt="arham-12336" /></p>
 
