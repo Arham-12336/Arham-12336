@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JavaScript, and Angular**
 
-- 👯 I’m looking to collaborate on **Front-end Projects**
+- 👯 I’m looking to collaborate on **Front-end Projects, ML projects**
 
 - 💬 Ask me about **Machine Learning**
 
