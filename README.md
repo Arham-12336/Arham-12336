@@ -22,6 +22,8 @@
 - ⚡ Fun fact **Programmer by choice, Sarcastic by birth**
 <h3 align="center">Front-end Developer | JavaScript Enthusiast | Researcher on Citation Network </h3>
    <div align="center">
+<h1 align="center">Achievement 🏆</h1>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=arham-12336&theme=darkhub" /></a> </p>
 <h1 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/arham_1019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arham_1019" height="30" width="40" /></a>
