@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end Projects, ML projects**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Machine Learning, Front-end development**
 
 - 📫 How to reach me **muhammad.arham1019@gmail.com**
 
