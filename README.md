@@ -39,11 +39,12 @@
 
 Looking for an opportunity to enhance my Web-development skills and utilize my extensive experience in Open-Source Projects by contributing my knowledge, skill, and abilities with full devotion.
 
-# ⚙️ GitHub Analytics
+## &#x1f4c8; GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arham-12336&show_icons=true&locale=en&layout=compact" alt="arham-12336" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arham-12336&show_icons=true&locale=en" alt="arham-12336" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arham-12336&" alt="arham-12336" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arham-12336&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arham-12336&theme=nord_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arham-12336&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arham-12336&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham-12336&theme=nord_dark)
+***
 
