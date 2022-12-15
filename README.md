@@ -20,7 +20,7 @@
 - 📫 How to reach me **muhammad.arham1019@gmail.com**
 
 - ⚡ Fun fact **Programmer by choice, Sarcastic by birth**
-<h3 align="center">Front-end Developer | JavaScript Enthusiast | Researcher on Citation Network </h3>
+<h3 align="center">Front-end Developer | JavaScript Enthusiast | xResearcher on Citation Network </h3>
    <div align="center">
 <h1 align="center">Connect with me:</h3>
 <p align="center">
