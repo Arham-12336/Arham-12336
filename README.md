@@ -45,6 +45,9 @@ Looking for an opportunity to enhance my Web-development skills and utilize my e
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arham-12336&theme=nord_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arham-12336&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arham-12336&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham-12336&theme=nord_dark)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham-12336&theme=nord_dark) -->
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arham-12336&layout=compact&theme=dark" alt="Arham"/></p>
+  </div>
 ***
 
