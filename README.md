@@ -20,7 +20,7 @@
 - 📫 How to reach me **muhammad.arham1019@gmail.com**
 
 - ⚡ Fun fact **Programmer by choice, Sarcastic by birth**
-<h3 align="center">Front-end Developer | JavaScript Enthusiast | Researcher on Citation Network </h3>
+<h3 align="center">Front-end Developer | JavaScript Enthusiast | sResearcher on Citation Network </h3>
    <div align="center">
 <h1 align="center">Achievement 🏆</h1>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=arham-12336&theme=darkhub" /></a> </p>
