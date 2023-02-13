@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
-- 💬 Ask me about **Machine Learning, Front-end development**
+- 💬 Ask me about **HTML,CSS & VanillaJS**
 
 - 📫 How to reach me **muhammad.arham1019@gmail.com**
 
