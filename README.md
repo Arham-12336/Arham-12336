@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Meri Trip(A travel website),A Recommender System For literature review**
 
-- 🌱 I’m currently learning **JavaScript, and Angular**
+- 🌱 I’m currently learning **JavaScript, and React**
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
-- 💬 Ask me about **HTML,CSS & VanillaJS**
+- 💬 Ask me about **HTML,CSS, JS & React**
 
 - 📫 How to reach me **muhammad.arham1019@gmail.com**
 
