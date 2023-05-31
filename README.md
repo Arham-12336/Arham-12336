@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arham_1019" target="blank"><img src="https://img.shields.io/twitter/follow/arham_1019?logo=twitter&style=for-the-badge" alt="arham_1019" /></a> </p>
 
-- 🔭 I’m currently working on **Meri Trip(A travel website),A Recommender System For literature review**
+- 🔭 I’m currently working on **Recommender System For literature review**
 
 - 🌱 I’m currently learning **JavaScript, and React**
 
