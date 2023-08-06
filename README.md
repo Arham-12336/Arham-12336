@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end Projects**
 
-- 💬 Ask me about **HTML,CSS, JS & React**
+- 💬 Ask me about **HTML/CSS,JS,React & Langchainjs**
 
 - 📫 How to reach me **muhammad.arham1019@gmail.com**
 
