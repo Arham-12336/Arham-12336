@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React, and Nextjs**
 
-- 👯 I’m looking to collaborate on **Front-end Projects**
+- 👯 I’m looking to collaborate on **Artifical Intelligence Projects**
 
 - 💬 Ask me about **HTML/CSS,JS,React & Langchainjs**
 
