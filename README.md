@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **GenAI Projects**
 
-- 💬 Ask me about **HTML/CSS,JS,React & Langchainjs**
+- 💬 Ask me about **HTML/CSS,JS,React & Langchain for Chatbot**
 
 - 📫 How to reach me **muhammad.arham1019@gmail.com**
 
