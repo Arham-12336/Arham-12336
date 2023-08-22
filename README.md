@@ -41,11 +41,13 @@ Looking for an opportunity to enhance my Web-development skills and utilize my e
 
 ## &#x1f4c8; GitHub Stats
 
+[![Arham-12336's GitHub | Dependencies](https://stats.quine.sh/Arham-12336/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Arham-12336)
+[![Arham-12336's GitHub | Stats](https://stats.quine.sh/Arham-12336/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Arham-12336)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=arham-12336&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arham-12336&theme=nord_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arham-12336&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arham-12336&theme=nord_dark)
-<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham-12336&theme=nord_dark) -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arham-12336&theme=nord_dark)
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arham-12336&layout=compact&theme=dark" alt="Arham"/></p>
   </div>
