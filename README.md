@@ -39,6 +39,9 @@
 
 Looking for an opportunity to enhance my Web-development skills and utilize my extensive experience in Open-Source Projects by contributing my knowledge, skill, and abilities with full devotion.
 
+# 🏆 HacktoberFest 2022 Badges
+[![An image of @arham12336's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arham12336)](https://holopin.io/@arham12336)
+
 ## &#x1f4c8; GitHub Stats
 
 [![Arham-12336's GitHub | Dependencies](https://stats.quine.sh/Arham-12336/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Arham-12336)
