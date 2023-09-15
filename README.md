@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Large Language Model and GenAI projects**
 
-- 💬 Ask me about **HTML/CSS,JS,React and langchainjs**
+- 💬 Ask me about **HTML/CSS,JS,React and langchain**
 
 - 📫 How to reach me **muhammad.arham1019@gmail.com**
 
