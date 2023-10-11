@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React, and Nextjs**
 
-- 👯 I’m looking to collaborate on **Large Language Model and Generative AI projects**
+- 👯 I’m looking to collaborate on **Large Language Model and Gen AI projects**
 
 - 💬 Ask me about **HTML/CSS,JS,React and langchain**
 
