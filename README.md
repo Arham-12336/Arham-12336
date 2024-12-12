@@ -9,13 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/arham_1019" target="blank"><img src="https://img.shields.io/twitter/follow/arham_1019?logo=twitter&style=for-the-badge" alt="arham_1019" /></a> </p>
 
-- 🔭 I’m currently working on **LLMs**
-
-- 🌱 I’m currently learning **React, and Nextjs**
+- 🔭 I’m currently working with **Angular,Nest,Nextjs and GenAI**
 
 - 👯 I’m looking to collaborate on **Large Language Model and Gen AI projects**
 
-- 💬 Ask me about **HTML/CSS,JS,React and langchain**
+- 💬 Ask me about **Javascript and AI**
 
 - 📫 How to reach me **muhammad.arham1019@gmail.com**
 
