@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Muhammad Arham Shams</h1>
-<h3 align="center">🚀 Software Engineer | Full Stack Engineer | JavaScript Enthusiast | LLM + GenAI Explorer</h3>
+<h3 align="center">🚀 Software Engineer | JavaScript Enthusiast | LLM + GenAI Explorer</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400"/>
